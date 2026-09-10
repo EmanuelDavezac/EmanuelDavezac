@@ -48,7 +48,7 @@ Junior Software Developer | Building web applications & cloud solutions
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white">
 </span>
 
-## Check ou my Social Media
+## Check out my Social Media
 
 <a target="_blank" href="https://www.linkedin.com/in/emanuel-davezac-658bb8348/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,3 +56,21 @@ Junior Software Developer | Building web applications & cloud solutions
 <a target="_blank" href="https://www.instagram.com/ema_davezac/?hl=es-la">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<h2>Github stats:</h2>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=EmanuelDavezac&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelDavezac&theme=material-palenight" height="175" alt="Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/EmanuelDavezac/EmanuelDavezac/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
