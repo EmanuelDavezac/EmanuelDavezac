@@ -71,6 +71,5 @@ Junior Software Developer | Building web applications & cloud solutions
 </table>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/EmanuelDavezac/EmanuelDavezac/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/EmanuelDavezac/EmanuelDavezac/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
